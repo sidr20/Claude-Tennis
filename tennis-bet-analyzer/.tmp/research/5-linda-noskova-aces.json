@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Berlin Tennis Open, Final",
+  "recent_form_summary": "Unbeaten all tournament, beat Zarazua, Parry, Badosa, and Eala 6-2 6-4 in the semifinal, first-ever grass final.",
+  "stat_trend_summary": "Hit 9 aces vs Eala on 83% first-serve points won -- serve clicking well on grass this week, though earlier-round values weren't found.",
+  "opponent": "Jessica Pegula",
+  "opponent_factor_summary": "Pegula is a very disciplined returner and leads their only grass meeting; a tougher return test than her earlier rounds could moderate ace output.",
+  "surface_probability": 0.55,
+  "opponent_probability": 0.45,
+  "momentum_probability": 0.55,
+  "injury_news": "None found.",
+  "inconclusive": false,
+  "notes": "Only one confirmed match value (9 vs Eala) despite four matches played, but no signs of struggle -- clean, ace-friendly serving this week against a high 6.5 line.",
+  "recent_match_values": [
+    9
+  ],
+  "confidence": "medium"
+}

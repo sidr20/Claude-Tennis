@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Mallorca Championships, R1",
+  "recent_form_summary": "Heartbreaking 5-set, 4h41m loss to Mensik at the French Open after opening with a clean win over Brooksby; also reached the Geneva final on clay. 21-13 in 2026, all on clay.",
+  "stat_trend_summary": "Averaged roughly 3.4 aces/match in his most recent reported comparison; this is his first competitive grass match of 2026, so there is zero surface-specific data.",
+  "opponent": "Lorenzo Sonego",
+  "opponent_factor_summary": "Sonego is solid on grass (53.8% career win rate there) but not an elite returner; trails the H2H 0-2 (0-1 on grass, on hard court in Miami).",
+  "surface_probability": 0.4,
+  "opponent_probability": 0.45,
+  "momentum_probability": 0.5,
+  "injury_news": "None found; just fatigue from a long clay campaign and a grueling 5-setter before transitioning to grass.",
+  "inconclusive": false,
+  "notes": "A clay-court grinder with a low ace rate making his first grass match of the season a major unknown -- grass typically boosts ace counts, but there is zero direct precedent for this player specifically.",
+  "recent_match_values": [
+    3
+  ],
+  "confidence": "low"
+}

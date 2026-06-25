@@ -1,0 +1,16 @@
+{
+  "surface": "Grass (unconfirmed for this matchup)",
+  "tournament": "Unconfirmed -- no verified match found scheduled for June 21, 2026",
+  "recent_form_summary": "Lost Nottingham R1 to Sonmez 6-4 7-6(1), second straight opening-round grass exit after also losing to Boulter at Queen's Club the week before.",
+  "stat_trend_summary": "No verified per-match ace counts found; only one incidental data point (1 ace in a Rome clay loss).",
+  "opponent": "Katie Boulter",
+  "opponent_factor_summary": "Boulter leads the H2H 2-1 and won most recently at Queen's Club, but Boulter withdrew from Nottingham injured and Eastbourne's main draw doesn't start until June 22.",
+  "surface_probability": null,
+  "opponent_probability": null,
+  "momentum_probability": null,
+  "injury_news": "Opponent (Boulter) withdrew from Nottingham with a left knee injury; no confirmed status for this weekend.",
+  "inconclusive": true,
+  "notes": "This matchup could not be verified as real/scheduled for June 21 -- Fernandez was already eliminated from Nottingham and Boulter withdrew injured before that, with Eastbourne not starting until the 22nd. Treat this leg as unverifiable.",
+  "recent_match_values": [],
+  "confidence": "low"
+}

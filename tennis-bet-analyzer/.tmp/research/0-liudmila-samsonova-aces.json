@@ -1,0 +1,16 @@
+{
+  "surface": "Grass",
+  "tournament": "Bad Homburg Open, R1",
+  "recent_form_summary": "Mired in a 4-5 match losing streak this swing, including an R1 exit at the French Open to Teichmann and a loss to Mertens in Berlin.",
+  "stat_trend_summary": "Season aces/match ~3.7 (down from 4.9 career), 59.3% first-serve; no confirmed per-match grass box scores found this week.",
+  "opponent": "Katerina Siniakova",
+  "opponent_factor_summary": "Siniakova is an elite returner and leads the H2H 2-1 (2-0 on grass), which should suppress free points on serve.",
+  "surface_probability": 0.55,
+  "opponent_probability": 0.4,
+  "momentum_probability": 0.35,
+  "injury_news": "None found; only flag was an unrelated food-poisoning withdrawal in Madrid (Apr/May).",
+  "inconclusive": false,
+  "notes": "Career/grass serve numbers support clearing 4.5, but the current form slump and a tough returner in Siniakova weigh against it; no real per-match ace values were found.",
+  "recent_match_values": [],
+  "confidence": "low"
+}

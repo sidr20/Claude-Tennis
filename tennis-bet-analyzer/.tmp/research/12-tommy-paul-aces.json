@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Queen's Club Championships (HSBC Championships), Final",
+  "recent_form_summary": "9 straight wins at Queen's Club, won the 2024 title, now back in the final after missing 2025 with injury; beat Svajda, van de Zandschulp, Davidovich Fokina, and Humbert without dropping a set.",
+  "stat_trend_summary": "Confirmed 15 aces in his R1 win over Svajda; 2026 season average is 7.06 aces/match with 22 combined aces across his first two matches this week.",
+  "opponent": "Francisco Cerundolo",
+  "opponent_factor_summary": "Cerundolo is a quality but not elite grass returner (won only ~42.9% of break chances created this week); leads the grass H2H 2-1, which tempers the edge slightly.",
+  "surface_probability": 0.68,
+  "opponent_probability": 0.55,
+  "momentum_probability": 0.6,
+  "injury_news": "Withdrew from Stuttgart pre-tournament with a stiff neck but has fully recovered, no issues across 4 wins at Queen's.",
+  "inconclusive": false,
+  "notes": "Strong underlying serve metrics (7.06 aces/match season average, 15 in one match, 22 combined across two rounds) support clearing 5.5, though full per-match granularity wasn't available for every match.",
+  "recent_match_values": [
+    15
+  ],
+  "confidence": "medium"
+}

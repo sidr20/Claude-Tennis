@@ -1,0 +1,16 @@
+{
+  "surface": "Grass (unconfirmed for this matchup)",
+  "tournament": "Unconfirmed -- no verified match found scheduled for June 21, 2026",
+  "recent_form_summary": "Strong Queen's Club run (beat Rybakina in the QF, lost to a lucky loser in the SF) but then withdrew from the following week's Nottingham Open with a left knee injury.",
+  "stat_trend_summary": "No verified per-match ace counts found; trailing-12-month average ~2.7 aces/match (down from 3.4 career), no individual match values confirmed.",
+  "opponent": "Leylah Fernandez",
+  "opponent_factor_summary": "Boulter beat Fernandez most recently at Queen's, but Fernandez has struggled on grass this swing -- low confidence given Boulter's own injury status.",
+  "surface_probability": null,
+  "opponent_probability": null,
+  "momentum_probability": null,
+  "injury_news": "Withdrew from Nottingham (mid-June 2026) with a left knee injury; no confirmed return timeline or status for this weekend.",
+  "inconclusive": true,
+  "notes": "Same scheduling concern as Fernandez -- no real, findable match for June 21; this player is recently injured/withdrawn and Eastbourne starts June 22, not the 21st. Treat this leg as unverifiable.",
+  "recent_match_values": [],
+  "confidence": "low"
+}

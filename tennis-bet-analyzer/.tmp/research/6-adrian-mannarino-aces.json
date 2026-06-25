@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Mallorca Championships, R1",
+  "recent_form_summary": "Excellent on grass recently: Hertogenbosch semifinal run, then played Fery and Mensik at Queen's Club; 8th seed at Mallorca.",
+  "stat_trend_summary": "Hit 12 aces in his Hertogenbosch QF win and totaled 22 aces across his first three matches there (~7.3/match), well above this 6.5 line.",
+  "opponent": "Nuno Borges",
+  "opponent_factor_summary": "Borges leads the H2H 2-0 (on hard/clay, not grass) but isn't an elite returner -- largely neutral-to-favorable for ace production.",
+  "surface_probability": 0.65,
+  "opponent_probability": 0.55,
+  "momentum_probability": 0.55,
+  "injury_news": "None found.",
+  "inconclusive": false,
+  "notes": "Grass-season ace rate (~7.3/match) sits comfortably above the 6.5 line, supporting a favorable lean, though recency data beyond Hertogenbosch was limited.",
+  "recent_match_values": [
+    12
+  ],
+  "confidence": "medium"
+}

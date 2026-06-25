@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -la \"/Users/jacoblopez/Desktop/\" 2>&1; pwd)",
+      "Read(//Users/jacoblopez/Desktop/**)",
+      "Bash(mkdir -p \"/Users/jacoblopez/Desktop/Claude Tennis /tennis-bet-analyzer/workflows\" \"/Users/jacoblopez/Desktop/Claude Tennis /tennis-bet-analyzer/tools\" \"/Users/jacoblopez/Desktop/Claude Tennis /tennis-bet-analyzer/.tmp/research\" && ls -la \"/Users/jacoblopez/Desktop/Claude Tennis /tennis-bet-analyzer\")",
+      "Bash(cp \"/Users/jacoblopez/Desktop/Claude Tennis /CLAUDE.md\" \"/Users/jacoblopez/Desktop/Claude Tennis /tennis-bet-analyzer/CLAUDE.md\" && echo \"copied\")"
+    ],
+    "additionalDirectories": [
+      "/Users/jacoblopez/Desktop/Claude Tennis /tennis-bet-analyzer",
+      "/Users/jacoblopez/Desktop/Claude Tennis "
+    ]
+  }
+}

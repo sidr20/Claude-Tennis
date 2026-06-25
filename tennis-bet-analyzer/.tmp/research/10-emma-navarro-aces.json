@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Lexus Nottingham Open, Final",
+  "recent_form_summary": "Excellent grass form, reached her first grass final of the season without losing a set until the final two; beat Golubic 7-6(5) 6-2 in the semifinal.",
+  "stat_trend_summary": "Hit 20 aces across four Nottingham matches (~5/match), including 3 vs Golubic; 2026 season average is only ~2.1/match -- grass is clearly boosting her rate.",
+  "opponent": "Marie Bouzkova",
+  "opponent_factor_summary": "Bouzkova is a scrappy but not elite returner; no prior H2H exists between them, so this leans on Bouzkova's modest return numbers.",
+  "surface_probability": 0.75,
+  "opponent_probability": 0.65,
+  "momentum_probability": 0.7,
+  "injury_news": "None found.",
+  "inconclusive": false,
+  "notes": "Tournament-week ace rate (~5/match) clears the 1.5 line with real margin, and her serve has clearly picked up on grass relative to her season average; no injury concerns, dropped only 2 sets all week.",
+  "recent_match_values": [
+    3
+  ],
+  "confidence": "high"
+}

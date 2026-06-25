@@ -1,0 +1,20 @@
+{
+  "surface": "Grass",
+  "tournament": "Mallorca Championships, R1",
+  "recent_form_summary": "Mixed grass swing: routine win over Atmane, hard-fought 3-set win over Cilic, then an R1 exit to Auger-Aliassime at Halle. 2026 record 14-18.",
+  "stat_trend_summary": "Highly volatile ace counts this swing (2, 13, 5), making the trend hard to project against a 6.5 line.",
+  "opponent": "Adrian Mannarino",
+  "opponent_factor_summary": "Mannarino trails the H2H 0-2 (on hard/clay) and isn't an elite returner -- a mild positive, though his grass instincts could extend rallies either way.",
+  "surface_probability": 0.5,
+  "opponent_probability": 0.5,
+  "momentum_probability": 0.45,
+  "injury_news": "None found.",
+  "inconclusive": false,
+  "notes": "Recent ace totals (2, 13, 5) average right around the line but show high variance and a recent R1 loss -- unstable form heading into a tougher seeded opponent.",
+  "recent_match_values": [
+    2,
+    13,
+    5
+  ],
+  "confidence": "low"
+}

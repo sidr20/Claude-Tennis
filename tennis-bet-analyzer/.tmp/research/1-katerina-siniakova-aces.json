@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Bad Homburg Open, R1",
+  "recent_form_summary": "Strong recent form: 3-0 in Berlin qualifying, beat Masarova 6-2 6-4, then lost a tight R16 to Pegula 6-2 6-4 (4 aces in that match).",
+  "stat_trend_summary": "Low season ace rate (~1.35/match, return-first doubles specialist), but hit 4 aces in her one confirmed recent box score, and grass tends to lift ace counts tour-wide.",
+  "opponent": "Liudmila Samsonova",
+  "opponent_factor_summary": "Samsonova is a big hitter but not an elite returner and is currently out of form, which may allow more free points than usual.",
+  "surface_probability": 0.5,
+  "opponent_probability": 0.55,
+  "momentum_probability": 0.55,
+  "injury_news": "2026 injury history (Indian Wells retirement, Madrid knee tweak) but no current limitation; played 4 matches in Berlin with no issue.",
+  "inconclusive": false,
+  "notes": "Only one confirmed match value (4 aces vs Pegula) sits right at the line; grass tends to boost aces tour-wide and a contested 3-setter would push this higher via extra service games.",
+  "recent_match_values": [
+    4
+  ],
+  "confidence": "medium"
+}

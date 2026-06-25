@@ -1,0 +1,19 @@
+{
+  "surface": "Grass",
+  "tournament": "Berlin Tennis Open, Final",
+  "recent_form_summary": "Reached the Berlin final beating Siniakova, Keys, and world No. 1 Sabalenka 6-4 6-7(4) 6-0 in the semifinal.",
+  "stat_trend_summary": "Hit 9 aces vs Sabalenka and totaled 12 aces across her first three matches (~4/match), solid but not explosive production this week.",
+  "opponent": "Linda Noskova",
+  "opponent_factor_summary": "Noskova is a strong, flat-hitting returner (leads H2H 2-1), though Pegula won their only prior grass meeting; could suppress some free points.",
+  "surface_probability": 0.6,
+  "opponent_probability": 0.5,
+  "momentum_probability": 0.55,
+  "injury_news": "None found.",
+  "inconclusive": false,
+  "notes": "Ace numbers this week straddle the 3.5 line -- the semifinal figure clears it comfortably but the tournament average sits closer to the number. Limited per-match sample, so moderate confidence.",
+  "recent_match_values": [
+    9,
+    4
+  ],
+  "confidence": "medium"
+}

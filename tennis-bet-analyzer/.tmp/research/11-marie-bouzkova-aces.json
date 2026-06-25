@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Lexus Nottingham Open, Final",
+  "recent_form_summary": "Most dominant player of the tournament: swept Dart, Klugman, Maria, and Pliskova (6-4 6-1 in the semifinal) without dropping a set.",
+  "stat_trend_summary": "Hit 6 aces across four matches this week (~1.5/match) including only 1 vs Pliskova in the semifinal; 2026 season average ~1.23/match, clearing 0.5 in roughly two-thirds of matches historically.",
+  "opponent": "Emma Navarro",
+  "opponent_factor_summary": "Navarro is a strong, disciplined returner (broke Golubic 6 times in her own semifinal), which could suppress Bouzkova's ace count below her week-long pace.",
+  "surface_probability": 0.6,
+  "opponent_probability": 0.5,
+  "momentum_probability": 0.6,
+  "injury_news": "None found.",
+  "inconclusive": false,
+  "notes": "Week-long ace rate hovers right around the 0.5 line, and her most recent (semifinal) match -- the closest stylistic proxy to facing a quality returner -- produced only 1 ace, so confidence is medium rather than high.",
+  "recent_match_values": [
+    1
+  ],
+  "confidence": "medium"
+}

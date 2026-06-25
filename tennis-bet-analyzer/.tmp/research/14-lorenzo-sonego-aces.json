@@ -1,0 +1,18 @@
+{
+  "surface": "Grass",
+  "tournament": "Mallorca Championships, R1",
+  "recent_form_summary": "Inconsistent recently: lost to Paul at the French Open, won a 5-set R1 there, entered Halle as a lucky loser, won an entry-round match (9 aces) before losing R1 to Shelton.",
+  "stat_trend_summary": "Confirmed 9 aces in his Halle win over Basilashvili; 2026 season average is 4.5 aces/match (down from 5.8 career), and his grass-specific rate is historically just 0.46 aces/game.",
+  "opponent": "Mariano Navone",
+  "opponent_factor_summary": "Navone is a clay-oriented player with a modest return game (~44.9% return points won) and this is his first grass match of the season -- no grass-specific return data exists for him.",
+  "surface_probability": 0.55,
+  "opponent_probability": 0.58,
+  "momentum_probability": 0.45,
+  "injury_news": "None found; benefited from Kyrgios's withdrawal to gain Halle entry.",
+  "inconclusive": false,
+  "notes": "Leads the H2H 2-0 (1-0 on grass) but poor recent grass-season serving stats (4.5/match in 2026, down from 5.8 career) and mixed recent results land this near a coin-flip on the 3.5 line.",
+  "recent_match_values": [
+    9
+  ],
+  "confidence": "medium"
+}
