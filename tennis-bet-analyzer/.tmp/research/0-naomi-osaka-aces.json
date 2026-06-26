@@ -1,0 +1,20 @@
+{
+  "surface": "Grass",
+  "tournament": "Bad Homburg Open, SF",
+  "recent_form_summary": "Won 3 straight matches in straight sets at Bad Homburg to reach the semifinals.",
+  "stat_trend_summary": "Hit 7 aces in each of her last two matches after hitting only 1 in the rain-interrupted first round.",
+  "opponent": "Xinyu Wang",
+  "opponent_factor_summary": "Xinyu Wang advanced via walkover (Svitolina withdrew due to exhaustion). No major opponent-specific ace trends identified.",
+  "surface_probability": 0.6,
+  "opponent_probability": 0.5,
+  "momentum_probability": 0.7,
+  "injury_news": "None. She reports feeling good and comfortable in the heat.",
+  "inconclusive": false,
+  "notes": "Osaka is in great form on grass, reaching her first SF on the surface since 2018. Her serve has been a weapon, hitting 7 aces in both the R16 and QF. Given her current rhythm, she has a solid chance of clearing the 8.5 line, though her recent matches have been quick straight-set wins which limits her total ace opportunities.",
+  "recent_match_values": [
+    7,
+    7,
+    1
+  ],
+  "confidence": "medium"
+}

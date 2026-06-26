@@ -158,5 +158,21 @@
     "actual_value": null,
     "hit": null,
     "date_resolved": null
+  },
+  {
+    "log_id": "2026-06-25-naomi-osaka-aces-8.5",
+    "date_logged": "2026-06-25",
+    "player_name": "Naomi Osaka",
+    "stat_type": "aces",
+    "direction": "under",
+    "line_value": 8.5,
+    "raw_text": "Naomi Osaka Aces Under 8.5",
+    "true_probability": 0.6088,
+    "rating": "MODERATE",
+    "edge_pct": 6.9,
+    "status": "pending",
+    "actual_value": null,
+    "hit": null,
+    "date_resolved": null
   }
 ]
